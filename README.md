@@ -1,4 +1,4 @@
-# Coursera
+# Introduction to Computer Vision & Image Processing by IBM
 
 Computer Vision is one of the most exciting fields in Machine Learning and AI. It has applications in many industries, such as self-driving cars, robotics, augmented reality, and much more. 
 
